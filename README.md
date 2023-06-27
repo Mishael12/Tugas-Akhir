@@ -10,7 +10,12 @@ Pemograman Website - C : <br/>
 
 Nama Website : PerpusGo
 
-PerpusGo merupakan sebuah website yang dirancang untuk menajemen buku didalam perpustakaan. Website ini memberi kemudahan bagi admin untuk mengatur buku, penulis buku, penerbit buku, Kategori Buku dan Data siswa yang tergabung dalam perpustakaan tersebut
+PerpusGo merupakan sebuah website yang dirancang untuk menajemen buku didalam perpustakaan. Website ini memberi kemudahan bagi admin untuk mengatur buku, penulis buku, penerbit buku, Kategori Buku dan Data siswa yang tergabung dalam perpustakaan tersebut <br/>
+
+Fitur : <br/>
+    - Bisa menambah author, penulis Buku, Kategori Buku, dan Data Siswa
+    - Bisa Menghapus author, penulis Buku, Kategori Buku, dan Data Siswa
+    - Bisa Menupdate author, penulis Buku, Kategori Buku, dan Data Siswa
 
 ## SCREENSHOT
 -Login Form <br/>
