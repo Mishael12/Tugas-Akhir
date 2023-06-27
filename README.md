@@ -11,7 +11,7 @@
 
 ## Anggota Kelompok
 Pemograman Website - C
-    - Achmed Ali Al Yusa (215150207111070)
+    - Achmed Ali Al Yusa (215150207111070)<br />
     - Mishael Ardhyta W (215150201111053)
 
 ## PENJELASAN PROGRAM
@@ -22,6 +22,8 @@ PerpusGo merupakan sebuah website yang dirancang untuk menajemen buku didalam pe
 
 ## SCREENSHOT
     -Login
-    <img src="Login.php" width="100%" /><br /> <br />
-    <img src="DashBoard.png" width="100%" /><br /> <br />
+    <img src="picture/Login.png" width="100%" /><br /> <br />
+
+    -DashBoard
+    <img src="picture/DashBoard.png" width="100%" /><br /> <br />
 
