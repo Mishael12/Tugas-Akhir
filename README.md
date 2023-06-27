@@ -22,20 +22,19 @@ Fitur : <br/>
 <img src="picture/Login.png" width="100%" /><br /> <br />
 
 -DashBoard <br/>
-![DashBoard](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/f91e8f20-506d-4e9a-9041-ec35ff5f7fae)
+<img src="picture/DashBoard.png" width="100%" /><br /> <br />
 
 -Authors <br/>
-![Author](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/84061c2c-6d6f-47ee-92e9-f098109654c8)
+<img src="picture/Author.png" width="100%" /><br /> <br />
 
 -Publisher <br/>
-![Publisher](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/f660d74f-27c5-4792-9a45-0db35137532c)
+<img src="picture/Publisher.png" width="100%" /><br /> <br />
 
 -Kategori <br/>
-![Kategori](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/53f1b6b9-62dc-4201-bbf5-bef15f1f6b53)
+<img src="picture/Kategori.png" width="100%" /><br /> <br />
 
 -Books <br/>
-![Buku](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/94d937de-067d-40eb-ab91-8148c867b60e)
+<img src="picture/Buku.png" width="100%" /><br /> <br />
 
 -Student <br/>
-![student](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/ebdeb939-2742-4f80-b1ad-226483948903)
-
+<img src="picture/.png" width="100%" /><br /> <br />
