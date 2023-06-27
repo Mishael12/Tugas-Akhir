@@ -19,7 +19,7 @@ Fitur : <br/>
 
 ## SCREENSHOT
 -Login Form <br/>
-![Login](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/a545281b-69ef-430d-a230-43308afc3a1d)
+<img src="picture/Login.png" width="100%" /><br /> <br />
 
 -DashBoard <br/>
 ![DashBoard](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/f91e8f20-506d-4e9a-9041-ec35ff5f7fae)
