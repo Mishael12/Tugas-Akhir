@@ -37,4 +37,5 @@ Fitur : <br/>
 <img src="picture/Buku.png" width="100%" /><br /> <br />
 
 -Student <br/>
-<img src="picture/.png" width="100%" /><br /> <br />
+![student](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/060abab5-9e9f-4db0-b75d-f0606db20fd7)
+
