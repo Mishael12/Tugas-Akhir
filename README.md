@@ -22,7 +22,8 @@ PerpusGo merupakan sebuah website yang dirancang untuk menajemen buku didalam pe
 
 ## SCREENSHOT
     -Login
-    <img src="picture/Login.png" width="100%" /><br /> <br />
+    ![Login](https://github.com/Mishael12/Tugas-Akhir/assets/103169682/71b87308-93ce-4682-a1d5-665dc939ae35)
+
 
     -DashBoard
     <img src="picture/DashBoard.png" width="100%" /><br /> <br />
